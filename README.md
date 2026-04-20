@@ -28,23 +28,35 @@ This project demonstrates a complete **Medallion Architecture** in Microsoft Fab
 
 ## 📸 Screenshots
 
-**Lakehouse - Bronze Layer**  
-![Bronze Layer](screenshots/Bronze_Layer_Lakehouse_Table.png)
+**Bronze Layer**  
 
-**Lakehouse - Silver Layer**  
-![Silver Layer](screenshots/Silver_Layer_Lakehouse_Table.png)
+![Bronze](Bronze_Layer_Lakehouse_Table.png)
 
-**Lakehouse - Gold Layer**  
-![Gold Layer](screenshots/Gold_Layer_Lakehouse_Table.png)
 
-**Power BI Dashboard - Page 1: Growth & Profitability**  
-![Page 1](screenshots/Financial_Statement_Analysis_Report_1.png)
+**Silver Layer**  
 
-**Power BI Dashboard - Page 2: Performance & Risk**  
-![Page 2](screenshots/Financial_Statement_Analysis_Report_2.png)
+![Silver](Silver_Layer_Lakehouse_Table.png)
 
-**Notebook - Silver & Gold Transformations**  
-![Notebook](screenshots/Financial_Statements_Silver_and_Gold_Tranformations_Notebook.png)
+
+**Gold Layer**  
+
+![Gold](Gold_Layer_Lakehouse_Table.png)
+
+
+**Page 1 - Growth & Profitability** 
+
+![Page 1](Financial_Statement_Analysis_Report_1.png)
+
+
+**Page 2 - Performance & Risk**  
+
+![Page 2](Financial_Statement_Analysis_Report_2.png)
+
+
+**Notebook**  
+
+![Notebook](Financial_Statements_Silver_and_Gold_Tranformations_Notebook.png)
+
 
 ## 📊 Key KPIs
 
@@ -52,7 +64,7 @@ This project demonstrates a complete **Medallion Architecture** in Microsoft Fab
 - Avg Net Profit Margin %  
 - Avg ROE %  
 - Avg EPS  
-- Avg YoY Revenue Growth %
+- Avg YoY Revenue Growth
 
 ---
 
