@@ -10,6 +10,7 @@ Interactive dashboard built with Microsoft Fabric Lakehouse (Bronze → Silver �
 
 This project demonstrates a complete **Medallion Architecture** in Microsoft Fabric for financial data analysis. It includes data cleaning, KPI calculations, YoY growth analysis, and interactive dashboards to support investment decisions, growth tracking, profitability analysis, and risk assessment.
 
+**Note**: This entire project was designed and developed by me from scratch.
 ---
 
 ## 🛠 Tech Stack
@@ -24,6 +25,7 @@ This project demonstrates a complete **Medallion Architecture** in Microsoft Fab
 - [📊 Power BI Report](Financial%20Statement%20Analysis%20Power%20BI.pbix)
 - [📓 Notebook](Financial_Statements_Silver_and_Gold_Tranformations_Notebook.ipynb)
 - [📄 SQL Queries](Financial_Statement_SQL_Queries.sql)
+- 
 ---
 
 ## 📸 Screenshots
@@ -43,6 +45,11 @@ This project demonstrates a complete **Medallion Architecture** in Microsoft Fab
 ![Gold](Gold_Layer_Lakehouse_Table.png)
 
 
+**Semantic Model**  
+
+![Semantic Model](Financial_Semantic_Model.png)
+
+
 **Page 1 - Growth & Profitability** 
 
 ![Page 1](Financial_Statement_Analysis_Report_1.png)
@@ -52,10 +59,6 @@ This project demonstrates a complete **Medallion Architecture** in Microsoft Fab
 
 ![Page 2](Financial_Statement_Analysis_Report_2.png)
 
-
-**Notebook**  
-
-![Notebook](Financial_Statements_Silver_and_Gold_Tranformations_Notebook.png)
 
 
 ## 📊 Key KPIs
