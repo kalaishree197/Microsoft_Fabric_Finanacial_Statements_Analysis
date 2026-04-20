@@ -24,7 +24,7 @@ This project demonstrates a complete **Medallion Architecture** in Microsoft Fab
 ## 📁 Project Files
 - [📊 Power BI Report](Financial%20Statement%20Analysis%20Power%20BI.pbix)
 - [📓 Notebook](Financial_Statements_Silver_and_Gold_Tranformations_Notebook.ipynb) 
-- [SQL Queries](Financial_Statement_SQL_Queries)
+- [SQL Queries](Financial_Statement_SQL_Queries.sql)
   
 ---
 
